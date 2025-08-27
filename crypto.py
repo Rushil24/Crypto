@@ -10,7 +10,7 @@ import yagmail
 
 # ✅ Email Configuration
 EMAIL_SENDER = "rushilpajni@gmail.com"
-EMAIL_PASSWORD = "lfyc jszp odso zeji"
+EMAIL_PASSWORD = "Enter Your Code Here"
 EMAIL_RECEIVER = "rushil20csu090@ncuindia.edu"
 
 # ✅ Crypto Settings
@@ -138,3 +138,4 @@ while True:
         print("❌ Failed to fetch price data.")
 
     time.sleep(300)  # Check every 5 minutes
+
